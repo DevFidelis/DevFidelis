@@ -7,7 +7,7 @@ Hey there! I'm Fidelis, a passionate developer with a love for all things tech. 
 ## ![👨‍💻](https://github.com/DevFidelis/DevFidelis/blob/main/about.gif) About Me
 
 - 💼 Currently, I am a Computer Science (Major - Software Engineering) student at the University of Zambia (UNZA). I am also working part-time as a blogger and freelancer at TinnovAce, a tech start-up I founded.
-- 🌱 I am ontinuously learning and growing in the field of software development.
+- 🌱 I am continuously learning and growing in the field of software development.
 - 🔭 I am also exploring various programming languages, frameworks, and technologies.
 - ❤️ I am enthusiastic about open source and contributing to meaningful projects.
 - 📚 I am committed to sharing knowledge and helping others in their coding journey.
@@ -16,7 +16,7 @@ Hey there! I'm Fidelis, a passionate developer with a love for all things tech. 
 
 Here are some key skills and technologies that I work with:
 
-- **Languages:** PHP, Python, R, Java, JavaScript, SQL, HTML, and CSS
+- **Languages:** PHP, Python, R, Java, JavaScript, SQL, Scheme, HTML, and CSS
 - **Frameworks and Libraries:** React.js, Node.js, Express.js, Shiny, Django, Flask, and Laravel
 - **Tools and Technologies:** Wordpress, Postman, Git and Github
 - **Database:** MongoDB, MySQL
