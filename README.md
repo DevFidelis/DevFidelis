@@ -1,4 +1,4 @@
-![image](https://github.com/DevFidelis/DevFidelis/assets/65792527/5b5789ca-7bb5-4880-a9cf-21d40f036780)# 👋 Welcome to My GitHub Profile!
+# 👋 Welcome to My GitHub Profile!
 
 ![Profile Banner](https://github.com/DevFidelis/DevFidelis/blob/main/banner.jpg)
 
