@@ -30,6 +30,8 @@ Check out some of my noteworthy projects:
 - [Time Ago Module](https://www.npmjs.com/package/cc-time-ago): A simple Node JS module that calculates the time elapsed by subtracting the time an entry was made from the current time.
 - [City News Centre](https://citynewscentre.com/): A football news and updates blog that aims to report accurately about everything football.
 - [Bola Yapa Zed](https://bolayapazed.com/):  A football news and updates blog that aims to report accurately about everything Zambian football.
+- [Zedscoop](http://zedscoop.com/):  A music streaming/download and all round entertainment blog site that delivers Zambian music-to-music lovers both home and in Diaspora.
+- [Just Zed Musik](https://www.justzedmuzik.co/): Fixed their spamdexing hack and handled their search engine optimization (SEO).
 
 Feel free to explore these projects in more detail!
 
