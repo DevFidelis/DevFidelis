@@ -6,11 +6,12 @@ Hey there! I'm Fidelis, a passionate developer with a love for all things tech. 
 
 ## ![👨‍💻](https://github.com/DevFidelis/DevFidelis/blob/main/about.gif) About Me
 
-- 💼 Currently, I am a Computer Science (Major - Software Engineering) student at the University of Zambia (UNZA). I am also working part-time as a blogger and freelancer at TinnovAce, a tech start-up I founded.
-- 🌱 I am continuously learning and growing in the field of software development.
-- 🔭 I am also exploring various programming languages, frameworks, and technologies.
-- ❤️ I am enthusiastic about open source and contributing to meaningful projects.
-- 📚 I am committed to sharing knowledge and helping others in their coding journey.
+- 💼 Currently, I am a Computer Science (Major - Software Engineering) student at the University of Zambia (UNZA), where I'm dedicated to honing my skills and knowledge in the realm of software development. In addition to my academic pursuits, I wear multiple hats in the tech world. I'm a part-time blogger at both Afrofire Limited and City News Centre, where I have the privilege of sharing my insights and experiences with a wider audience. Furthermore, I proudly serve as the software engineer and CEO at TinnovAce, a tech startup that I founded, where we're committed to pushing the boundaries of innovation.
+
+- 🔭 I am a lifelong learner, constantly exploring a myriad of programming languages, frameworks, and cutting-edge technologies. My enthusiasm for open source projects knows no bounds, and I actively engage in contributing to meaningful initiatives that foster collaborative development within the community.
+
+- ❤️ My passion for knowledge extends to mentoring and assisting others on their coding journey. I believe in the power of sharing insights and fostering a community of growth.
+
 
 ## 🚀 Skills and Expertise
 
