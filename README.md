@@ -17,10 +17,11 @@ Hey there! I'm Fidelis, a passionate developer with a love for all things tech. 
 
 Here are some key skills and technologies that I work with:
 
-- **Languages:** PHP, Python, R, Java, JavaScript, SQL, Scheme, HTML, and CSS
-- **Frameworks and Libraries:** React.js, Node.js, Express.js, Shiny, Django, Flask, and Laravel
-- **Tools and Technologies:** Wordpress, Postman, Git and Github
+- **Languages:** PHP, Python, R, Java, JavaScript, Scheme, HTML, and CSS
+- **Frameworks and Libraries:** React.js, Node.js, Express.js, Shiny, D
+- **Version Control, Tools and Technologies:** Wordpress, Postman, Git and Github
 - **Database:** MongoDB, MySQL
+- **API's:** REST
 - **Other Skills:** Ethical hacking, animating, blogging, rapping, songwriting
 
 ## 🌟 Featured Projects
@@ -33,6 +34,7 @@ Check out some of my noteworthy projects:
 - [Bola Yapa Zed](https://bolayapazed.com/):  A football news and updates blog that aims to report accurately about everything Zambian football.
 - [Zedscoop](http://zedscoop.com/):  A music streaming/download and all round entertainment blog site that delivers Zambian music-to-music lovers both home and in diaspora.
 - [Just Zed Muzik](https://www.justzedmuzik.co/): Fixed their spamdexing hack and handled their search engine optimization (SEO).
+- Accommodation System using the MERN Stack (Not Online)
 
 Feel free to explore these projects in more detail!
 
