@@ -22,7 +22,7 @@ Here are some key skills and technologies that I work with:
 - **Version Control, Tools and Technologies:** Wordpress, Postman, Git and Github
 - **Databases:** MongoDB (NoSQL), MySQL (SQL)
 - **API's:** REST
-- **Other Skills:** Ethical hacking, animating, blogging, rapping, songwriting
+- **Other Skills:** SEO, Ethical hacking, animating, blogging, rapping, songwriting
 
 ## 🌟 Featured Projects
 
