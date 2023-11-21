@@ -35,6 +35,7 @@ Check out some of my noteworthy projects:
 - [Zedscoop](http://zedscoop.com/):  A music streaming/download and all round entertainment blog site that delivers Zambian music-to-music lovers both home and in diaspora.
 - [Just Zed Muzik](https://www.justzedmuzik.co/): Fixed their spamdexing hack and handled their search engine optimization (SEO).
 - **Student Accommodation System** using the MERN Stack (Not Online)
+- **FunTauni:** A social networking website that was aiming at connecting the world and creating memories across the globe with over 30, 000 users. Unfortunately, the site is now offline due to various unforeseen reasons (Github repo is private).
 
 Feel free to explore these projects in more detail!
 
