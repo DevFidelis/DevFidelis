@@ -26,7 +26,17 @@ Here are some key skills and technologies that I work with:
 
 ## 🌟 Featured Projects
 
-Check out some of my noteworthy projects on my portfolio website at [devfidelis.com](https://www.devfidelis.com/)
+Check out some of my noteworthy projects:
+
+- [DevFidelis.com](https://www.devfidelis.com/): This is my official portfolio website where you can find updated projects and details about me.
+- [Moviefy](https://github.com/DevFidelis/Moviefy-Project): A movie recommendation and analysis system that suggests a movie to the user based on their moods or other users ratings using historical data.
+- [Time Ago Module](https://www.npmjs.com/package/cc-time-ago): A simple Node JS module that calculates the time elapsed by subtracting the time an entry was made from the current time.
+- [City News Centre](https://citynewscentre.com/): A football news and updates blog that aims to report accurately about everything football.
+- [Bola Yapa Zed](https://bolayapazed.com/):  A football news and updates blog that aims to report accurately about everything Zambian football.
+- [Zedscoop](http://zedscoop.com/):  A music streaming/download and all round entertainment blog site that delivers Zambian music-to-music lovers both home and in diaspora.
+- [Just Zed Muzik](https://www.justzedmuzik.co/): Fixed their spamdexing hack and handled their search engine optimization (SEO).
+- **Student Accommodation System** using the MERN Stack (Not Online)
+- **FunTauni:** A social networking website that was aiming at connecting the world and creating memories across the globe with over 30, 000 users. Unfortunately, the site is now offline due to various unforeseen reasons (Github repo is private).
 
 Feel free to explore these projects in more detail!
 
