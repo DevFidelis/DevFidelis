@@ -10,8 +10,7 @@ Hey there! I'm **Fidelis**, a **Software Engineer, Founder, and Open-Source Enth
 I am a **Computer Science graduate (Software Engineering major)** from the **University of Zambia (UNZA)** and the **Founder & CEO of TinnovAce**, a tech startup focused on **software development, innovation, and problem-solving**.  
 
 ### 🚀 What I Do:  
-- 💼 **Founder & Software Engineer at TinnovAce**
-I founded TinnovAce, a tech startup focused on building innovative digital solutions. Our current projects include:
+- 💼 **Founder & Software Engineer at TinnovAce:** I founded TinnovAce, a tech startup focused on building innovative digital solutions. Our current projects include:
 - 🌍 **Why Not Gospel** – A platform dedicated to gospel music, news, and insights.  
 - 📰 **City News Centre** – A digital news platform delivering timely and relevant stories.  
 - ⏳ **CC Time Ago Module** – An npm package for handling relative time formatting.  
