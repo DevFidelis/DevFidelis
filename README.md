@@ -34,7 +34,7 @@ I am a **Computer Science graduate (Software Engineering major)** from the **Uni
 
 Check out my **full list of projects** on my portfolio:  
 
-🔗 **[DevFidelis Portfolio](http://devfidelis.tinnovace.tech/)**  
+🔗 **[DevFidelis Portfolio](http://devfidelis.tinnovace.com/)**  
 
 ---
 
